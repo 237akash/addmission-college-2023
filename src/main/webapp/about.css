@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  
+  background-image: url(https://idreamcareer.com/wp-content/uploads/2022/12/top-colleges-of-du.webp);
+  background-size: coverss;
+}
+
+
+header {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+p {
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+footer {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+}
